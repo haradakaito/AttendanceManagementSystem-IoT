@@ -1,1 +1,13 @@
-# AttendanceManagementSystem-IoT
+# 【Raspberry Pi】カードリーダー式在籍確認システム
+
+## システム概要図
+
+
+
+## 仕様定義
+
+- 
+
+## 非機能要件
+
+- 
